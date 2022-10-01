@@ -1,0 +1,1 @@
+In this project I will present my solutions to the labs from the SQL course of University of New York on EDX platform, using the my_guitar_shop database
